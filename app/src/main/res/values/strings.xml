@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bus Tracking System</string>
+    <string name="DriverSelectionButton">Driver</string>
+    <string name="ClientSelectionButton">Client</string>
+    <string name="Title">Bus Tracking System</string>
+    <string name="TitleStart">Start</string>
+    <string name="ImageOfStartingApp">ImageOfStartingApp</string>
+    <string name="prefLoginState">loginstate</string>
+</resources>
